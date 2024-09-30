@@ -1,0 +1,92 @@
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/appsettings.Development.json
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/appsettings.json
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.staticwebassets.runtime.json
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.deps.json
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.runtimeconfig.json
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.dll
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.pdb
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.csproj.AssemblyReference.cache
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.AssemblyInfoInputs.cache
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.AssemblyInfo.cs
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.csproj.CoreCompileInputs.cache
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.RazorAssemblyInfo.cache
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.RazorAssemblyInfo.cs
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets/msbuild.Ch01GuitarShop.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets/msbuild.build.Ch01GuitarShop.props
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Ch01GuitarShop.props
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Ch01GuitarShop.props
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets.build.json
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets.development.json
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/scopedcss/bundle/Ch01GuitarShop.styles.css
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/scopedcss/projectbundle/Ch01GuitarShop.bundle.scp.css
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.dll
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/refint/Ch01GuitarShop.dll
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.pdb
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.genruntimeconfig.cache
+/Users/kensotak/Projects/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/ref/Ch01GuitarShop.dll
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/appsettings.Development.json
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/appsettings.json
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.staticwebassets.runtime.json
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.deps.json
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.runtimeconfig.json
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.dll
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/bin/Debug/net7.0/Ch01GuitarShop.pdb
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.csproj.AssemblyReference.cache
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.AssemblyInfoInputs.cache
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.AssemblyInfo.cs
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.csproj.CoreCompileInputs.cache
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.RazorAssemblyInfo.cache
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.RazorAssemblyInfo.cs
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets/msbuild.Ch01GuitarShop.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets/msbuild.build.Ch01GuitarShop.props
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Ch01GuitarShop.props
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Ch01GuitarShop.props
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets.build.json
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/staticwebassets.development.json
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/scopedcss/bundle/Ch01GuitarShop.styles.css
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/scopedcss/projectbundle/Ch01GuitarShop.bundle.scp.css
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.dll
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/refint/Ch01GuitarShop.dll
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.pdb
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/Ch01GuitarShop.genruntimeconfig.cache
+/Users/kensotak/Dropbox/NEIU/CS321/Murach/Murach Text aspnet core 2nd Edition/aspnet_core_mvc/instructors/Ch01GuitarShop/Ch01GuitarShop/obj/Debug/net7.0/ref/Ch01GuitarShop.dll
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\bin\Debug\net7.0\appsettings.json
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\bin\Debug\net7.0\Ch01GuitarShop.staticwebassets.runtime.json
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\bin\Debug\net7.0\Ch01GuitarShop.exe
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\bin\Debug\net7.0\Ch01GuitarShop.deps.json
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\bin\Debug\net7.0\Ch01GuitarShop.runtimeconfig.json
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\bin\Debug\net7.0\Ch01GuitarShop.dll
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\bin\Debug\net7.0\Ch01GuitarShop.pdb
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.AssemblyInfoInputs.cache
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.AssemblyInfo.cs
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.csproj.CoreCompileInputs.cache
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.RazorAssemblyInfo.cache
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.RazorAssemblyInfo.cs
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\staticwebassets\msbuild.Ch01GuitarShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\staticwebassets\msbuild.build.Ch01GuitarShop.props
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ch01GuitarShop.props
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ch01GuitarShop.props
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\scopedcss\bundle\Ch01GuitarShop.styles.css
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\scopedcss\projectbundle\Ch01GuitarShop.bundle.scp.css
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.dll
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\refint\Ch01GuitarShop.dll
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.pdb
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\Ch01GuitarShop.genruntimeconfig.cache
+C:\Users\hbell\OneDrive\Desktop\Ch01GuitarShop\obj\Debug\net7.0\ref\Ch01GuitarShop.dll
